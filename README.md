@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pratiksha Tripathi and I'm a Data Science Student, from Punjab.</h2>
+<h2 align="left">Hi 👋! My name is Pratiksha Tripathi and I'm a Data Science Student.</h2>
 
 ###
 
