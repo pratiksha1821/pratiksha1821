@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksha1821" alt="pratiksha1821" /></a> </p>
 
-- 🌱 I’m currenty learning **Data Analysis and Web Development**
+- 🌱 I’m currenty learning **Data Analysis and some thing creative**
 
 - 👨‍💻 All of my projects are available at [https://pratikshatripathi.netlify.app/](https://pratikshatripathi.netlify.app/)
 
